@@ -44,3 +44,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+hs_err_pid*
+node_modules
+package-lock.json
