@@ -1,16 +1,14 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-menu',
-  template: './menu.component.html',
+  selector: 'app-home',
+  templateUrl:'./home.component.html',
   styles: [
   ]
 })
-export class MenuComponent {
+export class HomeComponent{
 
   constructor() { }
 
-  
-  }
 
-
+}

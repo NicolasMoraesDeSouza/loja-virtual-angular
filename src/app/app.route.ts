@@ -1,5 +1,5 @@
 import { Routes } from '@angular/router';
-import { HomeComponent } from './navegacao/footer/home/home.component'
+import { HomeComponent } from './navegacao/home/home.component'
 
 export const rooteRouterConfig: Routes = [
     
