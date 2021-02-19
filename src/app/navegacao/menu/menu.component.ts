@@ -1,8 +1,9 @@
-import { Component} from '@angular/core';
+
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-menu',
-  templateUrl: './menu.component.html',
+  templateUrl:'./menu.component.html',
   styles: [
   ]
 })
@@ -11,5 +12,3 @@ export class MenuComponent {
   constructor() { }
 
 }
-
-

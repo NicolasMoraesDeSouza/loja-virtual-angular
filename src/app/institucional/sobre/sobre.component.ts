@@ -1,16 +1,17 @@
+
 import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-sobre',
-  template: './sobre.component.html',
+  templateUrl:'/sobre.component.html',
   styles: [
   ]
 })
-export class SobreComponent  {
+export class SobreComponent {
 
   constructor() { }
 
-  
-  }
+}
+
 
 
