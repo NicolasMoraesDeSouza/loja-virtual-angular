@@ -12,6 +12,7 @@ import { rooteRouterConfig } from './app.route';
 import { APP_BASE_HREF } from '@angular/common';
 import { from } from 'rxjs';
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -19,7 +20,8 @@ import { from } from 'rxjs';
     MenuComponent,
     HomeComponent,
     SobreComponent,
-    ContatoComponent
+    ContatoComponent,
+    
   ],
   imports: [
     BrowserModule,
